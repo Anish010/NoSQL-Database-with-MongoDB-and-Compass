@@ -8,7 +8,7 @@
   - [Screenshot](#screenshot)
   - [Link](#Link)
   - [Technical Skills](#technical-skills)
-  - [Operating System, Platforms](#operating-system,-platforms)
+  - [Operating System](#operating-system)
   - [Version Control](#version-control)
   - [Browsers](#browsers)
   - [Acknoledgement](#Acknowledgement)
@@ -74,8 +74,7 @@ Brushing up NoSQL document databases basics, as well as handling the basic Mongo
 </br>
 <kbd><img style="border:2px solid black" src="https://res.cloudinary.com/practicaldev/image/fetch/s--TRVPhBdQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/uzuqnrbwq3mjnuch2z2w.png" alt="MongoDB Compass" width="130" height="40"></kbd>
 
-### Operating System, Platforms
-
+### Operating System
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 </br>
