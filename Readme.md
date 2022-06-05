@@ -3,6 +3,7 @@
 ## Table of Contents
 
 - [Overview](#overview)
+  - [Scenario](#scenario) 
   - [The Objectives](#objectives)
   - [The Task](#tasks)
   - [Screenshot](#screenshot)
@@ -17,6 +18,12 @@
   - [Github Stats](#github-stats)
 
 ## Overview
+
+### Scenario
+
+In this Project I will create a MongoDB database and collection to store blog posts, and optimize it using indexes. I will use the basics of NoSQL document databases structure, the MongoDB shell and the usage of the powerful MongoDB Compass GUI to manage, inspect and optimize a MongoDB database.
+
+NoSQL is an alternative to traditional relational databases. NoSQL databases sacrifice some relational databases characteristics, such as a well-defined structure and strict relations between entities, in order to achieve better and easier scaling and replication, to handle large quantities of data, while being more generally flexible, cheaper and easier to manage. Instead of using tables, rows and columns, NoSQL document databases such as MongoDB use collections, documents and fields, represented with the well known JSON format.
 
 ### Objectives
 
