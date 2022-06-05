@@ -8,7 +8,7 @@
   - [Screenshot](#screenshot)
   - [Link](#Link)
   - [Technical Skills](#technical-skills)
-  - [Operating System, Platforms](#operating system,-platforms)
+  - [Operating System, Platforms](#operating-system,-platforms)
   - [Version Control](#version-control)
   - [Browsers](#browsers)
   - [Acknoledgement](#Acknowledgement)
