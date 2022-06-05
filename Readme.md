@@ -8,11 +8,9 @@
   - [Screenshot](#screenshot)
   - [Link](#Link)
   - [Technical Skills](#technical-skills)
-  - [Frameworks, Platforms, Libraries](#frameworks,-platforms,-libraries)
+  - [Operating System, Platforms](#operating system,-platforms)
   - [Version Control](#version-control)
-  - [Cloud/Features](#cloud/features)
   - [Browsers](#browsers)
-  - [IDEs/Editors](#ides/editors)
   - [Acknoledgement](#Acknowledgement)
 - [Author](#author)
   - [Connect With Me](#connect-with-me)
@@ -76,13 +74,11 @@ Brushing up NoSQL document databases basics, as well as handling the basic Mongo
 </br>
 <kbd><img style="border:2px solid black" src="https://res.cloudinary.com/practicaldev/image/fetch/s--TRVPhBdQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/uzuqnrbwq3mjnuch2z2w.png" alt="MongoDB Compass" width="130" height="40"></kbd>
 
-### Operating System / Platforms
+### Operating System, Platforms
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
 </br>
-
 ### Version Control
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
